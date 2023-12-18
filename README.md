@@ -1,4 +1,6 @@
 # m-laji-
+![Doctor](https://github.com/m-laji/m-laji-/assets/111758253/80e0a0a4-ef73-484d-ae0f-9c1ffec63521)
+
 My personal repository
 🔍 Professional Focus:
 
