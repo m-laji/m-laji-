@@ -1,5 +1,5 @@
 # m-laji-
-![Doctor](https://github.com/m-laji/m-laji-/assets/111758253/80e0a0a4-ef73-484d-ae0f-9c1ffec63521)
+<img src="https://github.com/m-laji/m-laji-/assets/111758253/80e0a0a4-ef73-484d-ae0f-9c1ffec63521" width="225" height="225" alt="Doctor" style="border:2px solid black;"/>
 
 My personal repository
 🔍 Professional Focus:
